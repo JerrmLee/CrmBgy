@@ -6,5 +6,6 @@ public class HelloBgy {
 		System.out.println("hello");
 		System.out.println("hello02");
 		System.out.println("helloEclipse");
+		System.out.println("helloEclipse222");
 	}
 }
