@@ -8,5 +8,8 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.jsp2</welcome-file>
+    <welcome-file>default.jsp3</welcome-file>
   </welcome-file-list>
 </web-app>
