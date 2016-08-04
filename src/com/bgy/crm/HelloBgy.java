@@ -8,5 +8,7 @@ public class HelloBgy {
 		System.out.println("helloEclipse");
 		System.out.println("helloEclipse222");
 		System.out.println("6666");
+		System.out.println("6666");
+		System.out.println("6666");
 	}
 }
