@@ -10,5 +10,9 @@ public class HelloBgy {
 		System.out.println("6666");
 		System.out.println("6666");
 		System.out.println("6666");
+		String str = "abc";
+		System.out.println(str);
+		System.out.println("h88");
+		System.out.println("h66");
 	}
 }
